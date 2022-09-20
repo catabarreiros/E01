@@ -32,7 +32,14 @@ if (number == 47) {
       alert("Sai mas é do meu site. Não és velho o suficiente e não te quero traumatizar.")
   }
 
-//depois quero perceber porque é que esta parte não estava a funcionar
-//  if else ("Bratislava") {
-  //  alert ("Eita" +person+ ", isso é a capital da Eslováquia.")
-    //alert ("????Olá??? Foca-te no assunto da próxima vez.")}
+  //depois quero perceber porque é que esta parte não estava a funcionar
+  //  if else ("Bratislava") {
+    //  alert ("Eita" +person+ ", isso é a capital da Eslováquia.")
+      //alert ("????Olá??? Foca-te no assunto da próxima vez.")}
+
+  if (number == "Bratislava") {
+    alert ("Eita" +person+ ", isso é a capital da Eslováquia.")
+    alert ("????Olá??? Foca-te no assunto da próxima vez.")
+  }
+
+//Update: já percebi :D
