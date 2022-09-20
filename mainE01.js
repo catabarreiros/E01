@@ -27,11 +27,6 @@ if (number == 47) {
       alert("Xau >:(");
   }
 
-  else {
-      alert ("ah HA. Eu bem disse.");
-      alert("Sai mas é do meu site. Não és velho o suficiente e não te quero traumatizar.")
-  }
-
   //depois quero perceber porque é que esta parte não estava a funcionar
   //  if else ("Bratislava") {
     //  alert ("Eita" +person+ ", isso é a capital da Eslováquia.")
@@ -43,3 +38,8 @@ if (number == 47) {
   }
 
 //Update: já percebi :D
+
+  else {
+      alert ("ah HA. Eu bem disse.");
+      alert("Sai mas é do meu site. Não és velho o suficiente e não te quero traumatizar.")
+  }
